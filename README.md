@@ -13,7 +13,7 @@ cd mailing-bot
 pip install -r requirements.txt
 ```
 3. Create your .env file:
-  - Copy the example file:
-  - ```bash
+  - Copy the example file:  
+ ```bash
       cp .env.example .env
-    ```
+ ```
