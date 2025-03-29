@@ -4,7 +4,5 @@
 📦 Getting Started
 ```bash
 git clone https://github.com/yourusername/mailing-bot.git
-cd mailing-bot
-
-
+cd mailing-bot```
 
