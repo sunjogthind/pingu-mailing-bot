@@ -20,7 +20,7 @@ pip install -r requirements.txt
   - Add your actual email credentials to .env (Don't commit this file lol!)
 
 4. Run the bot:
-   ```bash
-   python main.py
-   ```
+ ```bash
+ python main.py
+ ```
 
