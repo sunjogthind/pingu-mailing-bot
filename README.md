@@ -15,5 +15,5 @@ pip install -r requirements.txt
 3. Create your .env file:
   - Copy the example file:  
  ```bash
-      cp .env.example .env
+ cp .env.example .env
  ```
