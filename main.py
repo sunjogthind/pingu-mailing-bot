@@ -3,6 +3,7 @@ import smtplib
 from email.message import EmailMessage
 import os
 
+#TO - co-author both
 # Load environment variables from .env
 load_dotenv()
 
